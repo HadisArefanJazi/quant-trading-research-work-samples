@@ -1,0 +1,6 @@
+segment,signal_n,matched_control_n,edge_event_success_rate,matched_baseline_rate,lift_pp
+Overall M30+H1,234,1170,40.9,35.7,5.2
+M30 overall,166,830,41.6,36.9,4.6
+M30 Bullish,69,345,45.3,37.3,8.0
+H1 overall,68,340,39.4,32.6,6.8
+H1 Bearish,38,190,41.7,29.2,12.5
