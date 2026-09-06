@@ -102,7 +102,15 @@ multi-symbol, multi-timeframe discretionary research.
 │   ├── manual-backtesting-engine/
 │   └── mt5-research-toolkit/
 └── assets/
+
 ```
+
+## Related Quantitative / ML Research
+
+- [Resource-Aware Active Sensing and Control](https://github.com/HadisArefanJazi/resource-aware-active-sensing-control)  
+  Constrained reinforcement learning for joint control and information allocation under partial observability and explicit resource budgets.
+
+---
 
 ## Research / IP Note
 
