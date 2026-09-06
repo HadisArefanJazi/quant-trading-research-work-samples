@@ -1,0 +1,19 @@
+# Proprietary MT5 implementation
+*.mq5
+*.mqh
+*.ex5
+
+# Raw / event-level validation exports
+*raw*.csv
+*full*.csv
+*event*.csv
+SP_*.csv
+CH_*.csv
+
+# Private analysis workbooks
+*.xlsx
+
+# Local / OS files
+.DS_Store
+Thumbs.db
+*.tmp
