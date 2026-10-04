@@ -7,6 +7,12 @@ question is whether a specific higher-level market structure can identify situat
 where the probability of at least a partial settlement/correction or reversal is higher
 than under comparable market conditions.
 
+## Research Origin
+
+The original hypothesis was partly inspired by Wyckoff's accumulation and distribution framework, particularly the idea that meaningful directional transitions often develop through structured phases rather than isolated price movements.
+
+I used this only as a conceptual starting point. Through repeated market observation and manual testing, I identified more specific recurring structures and gradually translated them into explicit mechanical rules that could be detected and tested objectively.
+
 ## What I built
 
 A proprietary market-structure scanner that searches for a structured sequence involving:
