@@ -66,8 +66,16 @@ subsequent behavior than comparable non-signal observations.
 
 M30 Bullish showed positive lift in each calendar year from 2021 through August 2026.
 
-## Important limitation
 
-These are historical research results, not proof of persistent future alpha. Scanner
-implementation details, thresholds, signal rules, and event-level raw data are withheld
-to protect proprietary work.
+## Important limitations
+
+These results should be interpreted as historical evidence of conditional lift, not as proof of persistent future alpha.
+
+Important limitations include:
+
+- relatively small sample sizes in some subgroups,
+- potential sensitivity to the matching definition,
+- the distinction between edge detection and actual trade execution,
+- and the need for further out-of-sample and cross-instrument testing.
+
+Scanner implementation details, thresholds, signal rules, and event-level raw data are intentionally withheld to protect proprietary work.
