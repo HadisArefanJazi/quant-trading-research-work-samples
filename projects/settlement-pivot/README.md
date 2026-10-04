@@ -53,9 +53,6 @@ See:
 - [Validation method](../../docs/VALIDATION_METHOD.md)
 - [Aggregate results](../../evidence/validation_summary.csv)
 
-See:
-- [Validation method](../../docs/VALIDATION_METHOD.md)
-- [Aggregate results](../../evidence/validation_summary.csv)
 
 ## IP
 
