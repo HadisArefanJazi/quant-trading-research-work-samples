@@ -8,6 +8,14 @@ backtesting infrastructure, and MT5 workflow extensions.
 > **Public-evidence repository:** implementation details and source code are intentionally
 > withheld to protect proprietary work.
 
+## Research Approach
+
+My general research process is:
+
+**Observe → Hypothesize → Formalize → Implement → Validate**
+
+
+I begin by observing recurring market behavior, formulate a hypothesis about the underlying structure, translate that hypothesis into explicit mechanical rules, implement tools to detect or study it consistently, and finally evaluate whether it provides information beyond an appropriate market baseline.
 ## Work Sample
 
 **[View the full Quant Trading Work Sample (PDF)](docs/Quant_Trading_Work_Sample.pdf)**
