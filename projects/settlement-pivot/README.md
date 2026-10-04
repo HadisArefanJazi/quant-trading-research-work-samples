@@ -36,9 +36,22 @@ can also be used in discretionary execution.
 
 Method: **Matched-Control Event Study / Matched-Baseline Historical Validation**
 
-Each post-confirmed signal was paired with five non-signal observations matched on
-timeframe, market timing, and volatility. Both groups were subjected to the same outcome
-test.
+Each post-confirmed signal was paired with five non-signal observations selected from comparable market conditions.
+
+Matching considered:
+
+- the same timeframe,
+- the same evaluated bullish or bearish direction,
+- similar market timing,
+- and a similar volatility regime.
+
+Both signal and control observations were subjected to the same objective future-outcome test.
+
+Same-bar observations where target-versus-invalidation ordering could not be determined were classified as `AMBIGUOUS_SAME_BAR` and excluded from the primary success-rate calculation.
+
+See:
+- [Validation method](../../docs/VALIDATION_METHOD.md)
+- [Aggregate results](../../evidence/validation_summary.csv)
 
 See:
 - [Validation method](../../docs/VALIDATION_METHOD.md)
