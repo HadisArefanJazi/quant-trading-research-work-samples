@@ -33,13 +33,18 @@ Only resolved events are used in the reported success-rate comparison.
 
 ## Matching variables
 
-Controls were selected to be similar to the corresponding signal observation in:
+For each signal event, five non-signal control observations were selected from comparable market conditions.
+
+Matching considered:
 
 - timeframe,
-- market timing,
+- bullish or bearish evaluation direction,
+- market timing / session context,
 - and volatility regime.
 
-The future outcome was not used to select controls.
+The future outcome was never used in selecting control observations.
+
+The purpose of matching was not to recreate an identical market state, but to create a more relevant baseline than unconditional random observations.
 
 ## Why use a matched baseline?
 
