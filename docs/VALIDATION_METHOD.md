@@ -29,7 +29,11 @@ The primary event test asked whether price reached:
 - before reaching **-0.5 ATR** adverse movement
 - within a **30-bar horizon**.
 
-Only resolved events are used in the reported success-rate comparison.
+## Same-bar ambiguity handling
+
+In some observations, both the +1.0 ATR target and the -0.5 ATR invalidation level were reached within the same bar. Because bar-level data cannot determine which level was reached first, these observations are classified as `AMBIGUOUS_SAME_BAR`.
+
+These ambiguous observations are excluded from the primary success-rate calculation. Therefore, reported success rates use only observations for which the target-versus-invalidation ordering can be determined from the available data.
 
 ## Matching variables
 
